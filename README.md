@@ -3,7 +3,7 @@
 <!--
 **ljaniec/ljaniec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I am Łukasz Janiec, a PhD student at Wrocław University of Science and Technology, and I also serve as a robotics software developer at Arendai.
+I am Łukasz Janiec, a PhD student at Wrocław University of Science and Technology, and also a robotics software developer.
 
 -    🔭 Currently, I am engaged in research focused on the automated synthesis of hierarchical control systems for multiple mobile robots with a discrete event supervisor, utilizing a space-as-a-resource approach.
 -    🌱 I am actively enhancing my skills in advanced ROS 2 utilities and the Nav2 stack - if you have open issues suited to my skills, feel free to contact me!
